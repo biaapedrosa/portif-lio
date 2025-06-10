@@ -17,6 +17,11 @@ header nav ul {
   list-style: none;
   background-color: #333;
   padding: 10px;
+  transition: background-color 0.3s;
+}
+
+body.escuro header nav ul {
+  background-color: #222;
 }
 
 header nav ul li a {

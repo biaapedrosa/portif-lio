@@ -13,5 +13,5 @@
 - Uso de Flexbox
 
 ## Como acessar
-Basta abrir o arquivo `index.html` no navegador ou acessar .
+Ao acessar o link `https://biaapedrosa.github.io/portif-lio/index.html` no navegador você encontrará meu repositório.
 

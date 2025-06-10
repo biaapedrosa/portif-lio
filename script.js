@@ -4,7 +4,7 @@ function alternarTema() {
     body.style.backgroundColor = 'black';
     body.style.color = 'white';
   } else {
-    body.style.backgroundColor = 'white';
-    body.style.color = 'black';
+    body.style.backgroundColor = 'black';
+    body.style.color = 'white';
   }
 }

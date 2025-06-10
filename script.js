@@ -1,10 +1,10 @@
 function alternarTema() {
-  const body = document.body;
+    document.body.classList.toggle("escuro");
   if (body.style.backgroundColor === 'white') {
     body.style.backgroundColor = 'black';
     body.style.color = 'white';
   } else {
-    body.style.backgroundColor = 'black';
-    body.style.color = 'white';
+    body.style.backgroundColor = 'white';
+    body.style.color = 'black';
   }
 }

@@ -5,6 +5,11 @@ body {
   color: black;
 }
 
+body.escuro {
+  background-color: black;
+  color: white;
+}
+
 header nav ul {
   display: flex;
   justify-content: center;
